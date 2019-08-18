@@ -17,7 +17,7 @@ end
 def using_first(array)
  array = ["wow", "I", "am", "really", "learning", "arrays!"]
  array.first
- =>["I", "am", "really", "learning", "arrays!", "wow"]
+ =>"wow"
 end
 
 def using_last(array)
